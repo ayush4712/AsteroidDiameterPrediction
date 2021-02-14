@@ -1,5 +1,5 @@
-Asteroid Diameter Prediciton
-Asteroid Diameter Prediction using Xgboost.
+<b>Asteroid Diameter Prediciton<\b>
+**Asteroid Diameter Prediction using Xgboost.**
 
 Dataset Link:- https://www.kaggle.com/basu369victor/prediction-of-asteroid-diameter
 
